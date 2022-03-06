@@ -1,5 +1,15 @@
 pandas
+
+### Notebooks
+#### Code formatter
 jupyterlab_code_formatter
+##### Different code formatter
+black 
+isort
+autopep8
+yapf 
+
+
 widgetsnbextension
 jupyterlab-git
 lckr-jupyterlab-variableinspector
