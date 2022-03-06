@@ -1,6 +1,7 @@
 pandas
+jupyterlab_code_formatter
 widgetsnbextension
 jupyterlab-git
 lckr-jupyterlab-variableinspector
-jupyterlab-lsp
+# jupyterlab-lsp
 xeus-python
