@@ -15,4 +15,4 @@ jupyterlab-git
 lckr-jupyterlab-variableinspector
 jupyterlab-link-share
 # jupyterlab-lsp
-# xeus-python
+xeus-python
