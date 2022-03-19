@@ -14,4 +14,4 @@ widgetsnbextension
 jupyterlab-git
 lckr-jupyterlab-variableinspector
 # jupyterlab-lsp
-xeus-python
+# xeus-python
