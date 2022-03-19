@@ -13,5 +13,6 @@ yapf
 widgetsnbextension
 jupyterlab-git
 lckr-jupyterlab-variableinspector
+jupyterlab-link-share
 # jupyterlab-lsp
 # xeus-python
