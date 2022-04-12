@@ -47,4 +47,8 @@ Puis installer les packages nécessaires
 
 #### Via un environnement virtuel miniconda/anaconda
 
+`conda env create -f environment.yml`
 
+### Via Docker
+`docker build -t python_data_science .`
+`docker run -v "${PWD}":/ -p 8888:8888 python_data_science`
