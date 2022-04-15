@@ -1,13 +1,23 @@
 pandas
 
 ### Notebooks
+jupyterlab
 #### Code formatter
 jupyterlab_code_formatter
 ##### Different code formatter
 black 
 isort
 autopep8
-yapf 
+yapf
+
+### Linter
+flake8
+pylint
+
+### Plotting
+matplotlib
+seaborn
+
 
 
 widgetsnbextension
